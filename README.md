@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to my Profile! 👋
 
-<!--
-**fardousyousuf7-lab/fardousyousuf7-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm **Fardous**, a passionate **Web Developer** and **Creative Thinker**. I love building responsive, user-friendly websites and exploring new technologies.
 
-Here are some ideas to get you started:
+### 🛠 My Technical Skills:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What I'm working on:
+* 🌐 Building modern web templates.
+* 🎨 Designing unique user interfaces.
+
+### 📫 Contact Me:
+[LinkedIn](https://linkedin.com/in/fardousyousuf7-lab) | [Email](mailto:fardous@example.com)
+
